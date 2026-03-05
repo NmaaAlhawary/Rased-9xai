@@ -1,0 +1,5 @@
+npm run dev:all
+
+
+npm run preview
+npm run dev:server
